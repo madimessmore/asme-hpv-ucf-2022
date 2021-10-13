@@ -4,11 +4,11 @@ clc, clear, close all;
 format long;
 
 % declaring knowns
-A = 0.69051932027271; % frontal projection area found from solidworks
-Fz = 103.323; % z component of force acting on the vehicle, found from ansys
+A = ; % frontal projection area found from solidworks
+Fz = ; % z component of force acting on the vehicle, found from ansys
 Fy = ; % y component of force acting on the vehicle, found from ansys
-rho = 1.225; % density of air
-velocity = 20; % m/s
+rho = ; % density of air
+velocity = ; % m/s
 
 % calculating drag and lift
 Cd = (2*Fz)/(rho*A*(velocity^2));
