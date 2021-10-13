@@ -1,0 +1,4 @@
+Some interesting points to note, are that if we want to design the most aerodynamic fairing possible then we have two approaches. 
+Either attempt to perfectly shape it so thatairflow is perfectly laminar around it, or we optimize around the inevitability of turbulence. 
+The main things to look at are aspect ratio, curvature, and length. These are all factors that are intertwined and directly impact each other,
+so optimization shouldn't be as challenging. As we move forward and develop more of the design, these parameters can be fleshed out further.
